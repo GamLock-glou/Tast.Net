@@ -1,0 +1,7 @@
+D:\Projects in C#\MyEpamTask\MyEpamTask\obj\Debug\MyEpamTask.csprojAssemblyReference.cache
+D:\Projects in C#\MyEpamTask\MyEpamTask\obj\Debug\MyEpamTask.csproj.CoreCompileInputs.cache
+D:\Projects in C#\MyEpamTask\MyEpamTask\bin\Debug\MyEpamTask.exe.config
+D:\Projects in C#\MyEpamTask\MyEpamTask\bin\Debug\MyEpamTask.exe
+D:\Projects in C#\MyEpamTask\MyEpamTask\bin\Debug\MyEpamTask.pdb
+D:\Projects in C#\MyEpamTask\MyEpamTask\obj\Debug\MyEpamTask.exe
+D:\Projects in C#\MyEpamTask\MyEpamTask\obj\Debug\MyEpamTask.pdb
